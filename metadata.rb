@@ -1,0 +1,7 @@
+name             'm4'
+maintainer       'Rudolph Miller'
+maintainer_email 'chopsticks.tk.ppfm@gmail.com'
+license          'MIT'
+description      'Installs/Configures m4'
+long_description 'Installs/Configures m4'
+version          '0.1.0'
