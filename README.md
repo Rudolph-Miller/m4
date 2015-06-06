@@ -1,4 +1,5 @@
 # m4-cookbook
+[![Build Status](https://circleci.com/gh/Rudolph-Miller/m4.svg?style=shield)](https://circleci.com/Rudolph-Miller/m4)
 
 TODO: Enter the cookbook description here.
 
