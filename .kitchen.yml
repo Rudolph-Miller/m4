@@ -1,16 +1,16 @@
 ---
 driver:
-  name: vagrant
+  name: docker
 
 provisioner:
   name: chef_solo
 
 platforms:
-  - name: ubuntu-14.10
-  - name: centos-6.4
+  - name: ubuntu
+  - name: centos
 
 suites:
   - name: default
     run_list:
-      - recipe[m4::default]
+      - recipe[m4]
     attributes:
